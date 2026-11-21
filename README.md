@@ -145,11 +145,33 @@ I believe open source is one of the best ways to learn engineering at scale and 
 
 ---
 
-## 🐍 Contribution Activity
+## 🐍 GitHub Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vighneshtule/vighneshtule/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake Animation" width="100%"/>
+<img src="https://raw.githubusercontent.com/vighneshtule/vighneshtule/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation" width="100%"/>
+
+</div>
+
+---
+
+## 🧩 LeetCode Journey
+
+<div align="center">
+
+<a href="https://leetcode.com/u/Vighneshtule/">
+<img src="https://img.shields.io/badge/LeetCode-Vighneshtule-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+</a>
+
+<br/><br/>
+
+<a href="https://leetcode.com/u/Vighneshtule/">
+<img src="https://leetcard.jacoblin.cool/Vighneshtule?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode statistics, streaks and submission activity heatmap" width="90%"/>
+</a>
+
+<br/>
+
+*Live LeetCode stats and daily submission activity. The heatmap updates as the profile data refreshes.*
 
 </div>
 
